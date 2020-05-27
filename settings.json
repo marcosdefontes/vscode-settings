@@ -1,7 +1,12 @@
 {
-  "editor.fontFamily": "'Fira Code iScript','Fira Code','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
-  "editor.fontLigatures": true,
-  "workbench.settings.editor": "json",
-  "editor.renderWhitespace": "all",
-  "workbench.statusBar.feedback.visible": false,
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "window.zoomLevel": 0,
+    "vsicons.dontShowNewVersionMessage": true,
+    "editor.fontFamily": "'Fira Code iScript','Fira Code','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontLigatures": true,
+    "editor.renderWhitespace": "all",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 35,
+    "editor.minimap.enabled": false,
 }
